@@ -139,7 +139,7 @@ class Editor(QtGui.QMainWindow):
 
 	def open(self):
 
-		self.filename = QtGui.QFileDialog.getOpenFileName(self, 'Open File', ".", "(*.pqe)")
+		self.filename = QtGui.QFileDialog.getOpenFileName(self, 'Open File', ".", "(*.cpe)")
 
 		if self.filename:
 			with open(self.filename, "rt") as file:
@@ -152,8 +152,8 @@ class Editor(QtGui.QMainWindow):
 			self.filename = QtGui.QFileDialog.getSaveFileName(self, 'Save File')
 
 		# append extention if its not there
-		if not self.filename.endswith(".pqe"):
-			self.filename += ".pqe"
+		if not self.filename.endswith(".cpe"):
+			self.filename += "cpe"
 
 		# save the contents as an html
 		with open(self.filename, "wt") as file:
@@ -191,6 +191,6 @@ class Editor(QtGui.QMainWindow):
 		
 		# window position and name
 		self.setGeometry(50, 50, 1266, 668)
-		self.setWindowTitle("pyQtEditor")
+		self.setWindowTitle("CutiePieEditor")
 
 
