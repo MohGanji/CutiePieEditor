@@ -1,2 +1,2 @@
-# pyQtTextEditor
-a text editor with python and pyQt library
+# CutiePieEditor
+A text editor with python and PyQt library
