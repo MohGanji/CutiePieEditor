@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SE",
+				"SECOND"
+			],
+			[
+				"seve",
+				"seven_segment"
+			],
+			[
+				"sev",
+				"seven_segment"
+			],
+			[
+				"SECON",
+				"SECOND_MIN"
+			],
+			[
+				"H",
+				"Human"
+			],
+			[
+				"col",
+				"COL"
+			],
+			[
+				"commn",
+				"commands"
+			],
+			[
+				"first",
+				"first_col"
+			],
+			[
+				"firs",
+				"first_row"
+			],
+			[
+				"comman",
+				"command_num"
+			],
+			[
+				"Hm",
+				"human_num"
+			],
+			[
+				"fi",
+				"first_row"
+			],
+			[
+				"SL",
+				"SlavesNumber"
+			],
+			[
+				"map",
+				"hadoop_mapred_site_xml"
+			],
+			[
+				"hadoop",
+				"hadoop_hsfs_site_xml"
+			],
+			[
+				"hado",
+				"hadoop_core_xml_conf"
+			],
+			[
+				"Mess",
+				"messH"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/m0hammad/Downloads/alien.dir",
+		"/home/m0hammad/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/m0hammad/Desktop/lab5-report.txt",
+		"/home/m0hammad/tests/quera/3.py",
+		"/home/m0hammad/tests/quera/1.py",
+		"/home/m0hammad/tests/quera/2.py",
+		"/home/m0hammad/tests/quera/4.py",
+		"/media/m0hammad/Movie&Music/Tutorials/JavaScript/training/jsfile.js",
+		"/media/m0hammad/Movie&Music/Tutorials/JavaScript/training/homepage.html",
+		"/home/m0hammad/Me/Uni/DA/CA3/1_v2.py",
+		"/home/m0hammad/Me/Uni/DA/CA3/2-mamaReza.cpp",
+		"/home/m0hammad/Me/Uni/DA/CA3/2.cpp",
+		"/home/m0hammad/Me/Uni/DA/CA3/1.py",
+		"/home/m0hammad/Git/dining-ut/Makefile",
+		"/home/m0hammad/Desktop/expr3.txt",
+		"/tmp/rsub-5vf808/webhook.php",
+		"/tmp/rsub-l4ql11/webhook.php",
+		"/tmp/rsub-15w9ft/webhook.php",
+		"/tmp/rsub-1onpkr/webhook.php",
+		"/tmp/rsub-h1v7wm/webhook.php",
+		"/tmp/rsub-by8hfw/database_class.php",
+		"/home/m0hammad/Git/phptelegrambottest/commands/command_contact.php",
+		"/home/m0hammad/Git/phptelegrambottest/callbackqueries/callback_contact_admin_answer.php",
+		"/home/m0hammad/Git/phptelegrambottest/callbackqueries/callback_post_validation.php",
+		"/home/m0hammad/Git/phptelegrambottest/functions.php",
+		"/home/m0hammad/Git/phptelegrambottest/ufn",
+		"/home/m0hammad/Downloads/encrypted",
+		"/home/m0hammad/UT-Network-Script",
+		"/home/m0hammad/Me/Uni/DA/CA1/2_input3",
+		"/home/m0hammad/Me/Uni/DA/CA1/2.cpp",
+		"/home/m0hammad/Me/Uni/DA/CA1/3.cpp",
+		"/home/m0hammad/Downloads/Telegram Desktop/CA1-problem2.cpp",
+		"/tmp/evince-22756/image.JGCTVY.png",
+		"/home/m0hammad/Me/Uni/DA/CA1/1.cpp",
+		"/home/m0hammad/Desktop/test.cpp",
+		"/home/m0hammad/Desktop/Tap30/main.py",
+		"/home/m0hammad/Desktop/Tap30/process.py",
+		"/home/m0hammad/Desktop/Tap30/get_input.py",
+		"/home/m0hammad/Desktop/Tap30/areas",
+		"/home/m0hammad/Desktop/Tap30/data",
+		"/home/m0hammad/Desktop/Tap30/Print.py",
+		"/home/m0hammad/Desktop/Tap30/getData.py",
+		"/home/m0hammad/Desktop/Hadoop/Hadoop_install.sh",
+		"/home/m0hammad/Desktop/Qs/InsertionSortAdvanced.py",
+		"/home/m0hammad/hackerrank/Hackerrank/MakingAnagrams.cpp",
+		"/home/m0hammad/Desktop/Qs/JourneyToTheMoon.py",
+		"/home/m0hammad/Desktop/README.md",
+		"/home/m0hammad/hackerrank/MakingAnagrams.cpp",
+		"/home/m0hammad/Me/Uni/DS/CA3/3.py",
+		"/home/m0hammad/Desktop/bigtest.txt",
+		"/home/m0hammad/Desktop/Qs/SherlockAndArray.py",
+		"/home/m0hammad/Me/Uni/DS/CA4/2.py",
+		"/home/m0hammad/Me/Uni/DS/CA3/q2.py",
+		"/home/m0hammad/Desktop/Hadoop/d",
+		"/home/m0hammad/Desktop/DS/CA1/1/proj/Makefile",
+		"/home/m0hammad/Desktop/DS/CA1/1/proj/main.cpp",
+		"/home/m0hammad/Desktop/Hadoop_install.sh",
+		"/home/m0hammad/Me/Projects/TestAra/Exams/Button.cpp",
+		"/home/m0hammad/Me/Projects/TestAra/Exams/Button.h",
+		"/home/m0hammad/Me/Projects/TestAra/BackButton/Button.cpp",
+		"/home/m0hammad/Me/Projects/TestAra/GR/Text.cpp",
+		"/home/m0hammad/Me/Projects/TestAra/GR/Button.cpp",
+		"/home/m0hammad/Me/Projects/TestAra/GR/Button.h",
+		"/home/m0hammad/.config/openbox/lubuntu-rc.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"minute",
+			"d_last",
+			"\n ",
+			"print",
+			"MINUTE",
+			"+",
+			"1MIN",
+			"_MIN",
+			"MIN",
+			"MAX",
+			">",
+			"CENTURY",
+			"day",
+			"SECOND",
+			"CENTURY",
+			"if",
+			"print",
+			"ROW",
+			"Copied_Tail",
+			"Tail",
+			"tail",
+			"print",
+			"tail[-1]",
+			"tail",
+			"Human",
+			"old_head",
+			"head",
+			"bpGraph",
+			"maxBPM",
+			"bpm",
+			"seen",
+			"G",
+			"vahid",
+			"telegram->",
+			"send_message",
+			"start",
+			"A",
+			"a",
+			"A",
+			"arr",
+			"data_matrix",
+			"/usr/local/hadoop/etc/hadoop/hadoop-env.sh",
+			"---------------------------------------------------------------------------------------------------",
+			"--------------------------------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------------------------------",
+			"------------------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------------",
+			"----------------------------------------------------------------------------------------------",
+			"---------------------------------------------------------------------------------------------",
+			"--------------------------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------------------------",
+			"------------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------------",
+			"----------------------------------------------------------------------------------------",
+			"---------------------------------------------------------------------------------------",
+			"--------------------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------------------",
+			"------------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------------",
+			"----------------------------------------------------------------------------------",
+			"---------------------------------------------------------------------------------",
+			"--------------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------------",
+			"------------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------------",
+			"----------------------------------------------------------------------------",
+			"---------------------------------------------------------------------------",
+			"--------------------------------------------------------------------------",
+			"-------------------------------------------------------------------------",
+			"------------------------------------------------------------------------",
+			"-----------------------------------------------------------------------",
+			"----------------------------------------------------------------------",
+			"---------------------------------------------------------------------",
+			"--------------------------------------------------------------------",
+			"-------------------------------------------------------------------",
+			"------------------------------------------------------------------",
+			"-----------------------------------------------------------------",
+			"----------------------------------------------------------------",
+			"---------------------------------------------------------------",
+			"--------------------------------------------------------------",
+			"-------------------------------------------------------------",
+			"------------------------------------------------------------",
+			"-----------------------------------------------------------",
+			"----------------------------------------------------------",
+			"---------------------------------------------------------",
+			"--------------------------------------------------------",
+			"-------------------------------------------------------",
+			"------------------------------------------------------",
+			"-----------------------------------------------------",
+			"----------------------------------------------------",
+			"---------------------------------------------------",
+			"--------------------------------------------------",
+			"-------------------------------------------------",
+			"------------------------------------------------",
+			"-----------------------------------------------",
+			"----------------------------------------------",
+			"---------------------------------------------",
+			"--------------------------------------------",
+			"-------------------------------------------",
+			"------------------------------------------",
+			"-----------------------------------------",
+			"----------------------------------------",
+			"---------------------------------------",
+			"--------------------------------------",
+			"-------------------------------------",
+			"------------------------------------",
+			"-----------------------------------",
+			"----------------------------------",
+			"---------------------------------",
+			"--------------------------------",
+			"-------------------------------",
+			"------------------------------",
+			"-----------------------------",
+			"----------------------------",
+			"---------------------------",
+			"--------------------------",
+			"-------------------------",
+			"------------------------",
+			"-----------------------",
+			"----------------------",
+			"---------------------",
+			"--------------------",
+			"-------------------",
+			"------------------",
+			"-----------------",
+			"----------------",
+			"---------------",
+			"--------------"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Editor.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
